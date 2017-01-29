@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_humanas"
+            android:title="Ciências Humanas" />
+        <item
+            android:id="@+id/nav_natureza"
+            android:title="Ciências da Natureza" />
+        <item
+            android:id="@+id/nav_matematica"
+            android:title="Matemática" />
+        <item
+            android:id="@+id/nav_ingles"
+            android:title="Inglês" />
+        <item
+            android:id="@+id/nav_espanhol"
+            android:title="Espanhol" />
+        <item
+            android:id="@+id/nav_portugues"
+            android:title="Português" />
+    </group>
+</menu>
